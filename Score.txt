@@ -1,0 +1,10 @@
+1:Kalina
+22:Peter
+21:Dimitar
+14:Dragoman
+22:Petkan
+20:Kristian
+56:Stefan
+5:Dan
+16:3 
+
